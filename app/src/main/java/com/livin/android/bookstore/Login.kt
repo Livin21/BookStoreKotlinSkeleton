@@ -10,7 +10,7 @@ import android.support.v7.app.AppCompatActivity
 class Login : AppCompatActivity() {
 
     private val username = "gdgcochin"
-    private val password = "devfest17"
+    private val password = "devday"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
